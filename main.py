@@ -1,4 +1,4 @@
-from utils.video_fetcher import fetch_video_metadata
+from utils.videos_fetcher import fetch_video_metadata
 
 def main():
     keywords = input("Enter keyword (or a list of words separated by commas(,): ").strip()
